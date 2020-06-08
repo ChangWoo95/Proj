@@ -1,0 +1,1600 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8388
+demo_image/demo_9.jpg    	bally                    	0.7565
+demo_image/demo_10.jpg   	university               	0.9998
+demo_image/one_0_cropimg.jpg	get                      	0.9998
+demo_image/one_1_cropimg.jpg	english                  	1.0000
+demo_image/three_0_cropimg.jpg	maname                   	0.0002
+demo_image/three_1_cropimg.jpg	aps                      	0.1528
+demo_image/two_0_cropimg.jpg	a                        	0.2105
+demo_image/two_1_cropimg.jpg	chicken                  	0.2988
+demo_image/two_2_cropimg.jpg	lemon                    	0.9989
+demo_image/two_3_cropimg.jpg	and                      	0.0312
+demo_image/two_4_cropimg.jpg	an                       	0.1098
+demo_image/two_5_cropimg.jpg	for                      	0.2055
+demo_image/two_6_cropimg.jpg	tip                      	0.6043
+demo_image/two_7_cropimg.jpg	becchicken               	0.0083
+demo_image/two_8_cropimg.jpg	c                        	0.9966
+demo_image/two_9_cropimg.jpg	aimericel                	0.0770
+demo_image/two_10_cropimg.jpg	bbochicken               	0.3123
+demo_image/two_11_cropimg.jpg	the                      	0.9789
+demo_image/two_12_cropimg.jpg	oparks                   	0.9782
+demo_image/two_13_cropimg.jpg	lemon                    	0.9998
+demo_image/two_14_cropimg.jpg	not                      	0.1980
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8388
+demo_image/demo_9.jpg    	bally                    	0.7565
+demo_image/demo_10.jpg   	university               	0.9998
+demo_image/one_0_cropimg.jpg	get                      	0.9998
+demo_image/one_1_cropimg.jpg	english                  	1.0000
+demo_image/three_0_cropimg.jpg	maname                   	0.0002
+demo_image/three_1_cropimg.jpg	aps                      	0.1528
+demo_image/two_0_cropimg.jpg	a                        	0.2105
+demo_image/two_1_cropimg.jpg	chicken                  	0.2988
+demo_image/two_2_cropimg.jpg	lemon                    	0.9989
+demo_image/two_3_cropimg.jpg	and                      	0.0312
+demo_image/two_4_cropimg.jpg	an                       	0.1098
+demo_image/two_5_cropimg.jpg	for                      	0.2055
+demo_image/two_6_cropimg.jpg	tip                      	0.6043
+demo_image/two_7_cropimg.jpg	becchicken               	0.0083
+demo_image/two_8_cropimg.jpg	c                        	0.9966
+demo_image/two_9_cropimg.jpg	aimericel                	0.0770
+demo_image/two_10_cropimg.jpg	bbochicken               	0.3123
+demo_image/two_11_cropimg.jpg	the                      	0.9789
+demo_image/two_12_cropimg.jpg	oparks                   	0.9782
+demo_image/two_13_cropimg.jpg	lemon                    	0.9998
+demo_image/two_14_cropimg.jpg	not                      	0.1980
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/demo_1.png    	available                	0.9999
+demo_image/demo_2.jpg    	shakeshack               	0.9533
+demo_image/demo_3.png    	london                   	0.9840
+demo_image/demo_4.png    	greenstead               	0.9985
+demo_image/demo_5.png    	toast                    	0.9961
+demo_image/demo_6.png    	merry                    	0.9975
+demo_image/demo_7.png    	underground              	1.0000
+demo_image/demo_8.jpg    	ronaldo                  	0.8388
+demo_image/demo_9.jpg    	bally                    	0.7565
+demo_image/demo_10.jpg   	university               	0.9998
+demo_image/one_0_cropimg.jpg	get                      	0.9998
+demo_image/one_1_cropimg.jpg	english                  	1.0000
+demo_image/three_0_cropimg.jpg	maname                   	0.0002
+demo_image/three_1_cropimg.jpg	aps                      	0.1528
+demo_image/two_0_cropimg.jpg	a                        	0.2105
+demo_image/two_1_cropimg.jpg	chicken                  	0.2988
+demo_image/two_2_cropimg.jpg	lemon                    	0.9989
+demo_image/two_3_cropimg.jpg	and                      	0.0312
+demo_image/two_4_cropimg.jpg	an                       	0.1098
+demo_image/two_5_cropimg.jpg	for                      	0.2055
+demo_image/two_6_cropimg.jpg	tip                      	0.6043
+demo_image/two_7_cropimg.jpg	becchicken               	0.0083
+demo_image/two_8_cropimg.jpg	c                        	0.9966
+demo_image/two_9_cropimg.jpg	aimericel                	0.0770
+demo_image/two_10_cropimg.jpg	bbochicken               	0.3123
+demo_image/two_11_cropimg.jpg	the                      	0.9789
+demo_image/two_12_cropimg.jpg	oparks                   	0.9782
+demo_image/two_13_cropimg.jpg	lemon                    	0.9998
+demo_image/two_14_cropimg.jpg	not                      	0.1980
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/one_0_cropimg.jpg	get                      	0.9998
+recog_image/one_1_cropimg.jpg	english                  	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	allenes                  	0.0001
+recog_image/2.jpg        	serverated               	0.0018
+recog_image/3.jpg        	saemteo                  	0.8537
+recog_image/4.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	allenes                  	0.0001
+recog_image/2.jpg        	serverated               	0.0018
+recog_image/3.jpg        	saemteo                  	0.8537
+recog_image/4.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	allenes                  	0.0001
+recog_image/2.jpg        	serverated               	0.0018
+recog_image/3.jpg        	saemteo                  	0.8537
+recog_image/4.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	allenes                  	0.0001
+recog_image/2.jpg        	serverated               	0.0018
+recog_image/3.jpg        	saemteo                  	0.8537
+recog_image/4.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9998
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	allenes                  	0.0001
+recog_image/4.jpg        	serverated               	0.0018
+recog_image/5.jpg        	saemteo                  	0.8537
+recog_image/6.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9998
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	allenes                  	0.0001
+recog_image/4.jpg        	serverated               	0.0018
+recog_image/5.jpg        	saemteo                  	0.8537
+recog_image/6.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	a                        	0.2105
+recog_image/2.jpg        	a                        	0.2105
+recog_image/3.jpg        	a                        	0.2105
+recog_image/4.jpg        	a                        	0.2105
+recog_image/5.jpg        	a                        	0.2105
+recog_image/6.jpg        	a                        	0.2105
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	a                        	0.2105
+recog_image/2.jpg        	a                        	0.2105
+recog_image/3.jpg        	a                        	0.2105
+recog_image/4.jpg        	a                        	0.2105
+recog_image/5.jpg        	a                        	0.2105
+recog_image/6.jpg        	a                        	0.2105
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	a                        	0.2105
+recog_image/2.jpg        	a                        	0.2105
+recog_image/3.jpg        	a                        	0.2105
+recog_image/4.jpg        	a                        	0.2105
+recog_image/5.jpg        	a                        	0.2105
+recog_image/6.jpg        	a                        	0.2105
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9999
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	allenes                  	0.0001
+recog_image/4.jpg        	serverated               	0.0018
+recog_image/5.jpg        	saemteo                  	0.8537
+recog_image/6.jpg        	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9999
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	gee                      	0.2316
+recog_image/4.jpg        	51                       	0.6184
+recog_image/5.jpg        	illages                  	0.0003
+recog_image/6.jpg        	spil                     	0.0690
+recog_image/7.jpg        	allenes                  	0.0001
+recog_image/8.jpg        	serverated               	0.0018
+recog_image/9.jpg        	saemteo                  	0.8537
+recog_image/10.jpg       	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9999
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	gee                      	0.2316
+recog_image/4.jpg        	51                       	0.6184
+recog_image/5.jpg        	illages                  	0.0003
+recog_image/6.jpg        	spil                     	0.0690
+recog_image/7.jpg        	allenes                  	0.0001
+recog_image/8.jpg        	serverated               	0.0018
+recog_image/9.jpg        	saemteo                  	0.8537
+recog_image/10.jpg       	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9999
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	gee                      	0.2316
+recog_image/4.jpg        	51                       	0.6184
+recog_image/5.jpg        	illages                  	0.0003
+recog_image/6.jpg        	spil                     	0.0690
+recog_image/7.jpg        	allenes                  	0.0001
+recog_image/8.jpg        	serverated               	0.0018
+recog_image/9.jpg        	saemteo                  	0.8537
+recog_image/10.jpg       	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image/1.jpg        	get                      	0.9999
+recog_image/2.jpg        	english                  	1.0000
+recog_image/3.jpg        	gee                      	0.2316
+recog_image/4.jpg        	51                       	0.6184
+recog_image/5.jpg        	illages                  	0.0003
+recog_image/6.jpg        	spil                     	0.0690
+recog_image/7.jpg        	allenes                  	0.0001
+recog_image/8.jpg        	serverated               	0.0018
+recog_image/9.jpg        	saemteo                  	0.8537
+recog_image/10.jpg       	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	get                      	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	a                        	0.2105
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	get                      	0.9999
+recog_image1/2.jpg       	english                  	1.0000
+recog_image1/3.jpg       	gee                      	0.2316
+recog_image1/4.jpg       	51                       	0.6184
+recog_image1/5.jpg       	illages                  	0.0003
+recog_image1/6.jpg       	spil                     	0.0690
+recog_image1/7.jpg       	allenes                  	0.0001
+recog_image1/8.jpg       	serverated               	0.0018
+recog_image1/9.jpg       	saemteo                  	0.8537
+recog_image1/10.jpg      	ari                      	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	puss                     	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	0                        	0.8393
+recog_image1/2.jpg       	6stn                     	0.9749
+recog_image1/3.jpg       	b                        	0.9972
+recog_image1/4.jpg       	y                        	0.4819
+recog_image1/5.jpg       	g                        	0.9793
+recog_image1/6.jpg       	xg                       	0.8277
+recog_image1/7.jpg       	64                       	0.6806
+recog_image1/8.jpg       	xlzz                     	0.4064
+recog_image1/9.jpg       	8sju                     	0.3179
+recog_image1/10.jpg      	egg                      	0.6016
+recog_image1/11.jpg      	7klm                     	0.1653
+recog_image1/12.jpg      	set                      	0.7609
+recog_image1/13.jpg      	englsh                   	0.9082
+recog_image1/14.jpg      	gl                       	0.4768
+recog_image1/15.jpg      	5                        	0.9996
+recog_image1/16.jpg      	543                      	0.0550
+recog_image1/17.jpg      	co                       	0.4266
+recog_image1/18.jpg      	7lgh                     	0.4578
+recog_image1/19.jpg      	high                     	0.2857
+recog_image1/20.jpg      	salmts                   	0.2954
+recog_image1/21.jpg      	ar                       	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	n1ss                     	0.8422
+recog_image2/22.jpg      	n1ss                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	0                        	0.8393
+recog_image1/2.jpg       	6stn                     	0.9749
+recog_image1/3.jpg       	b                        	0.9972
+recog_image1/4.jpg       	y                        	0.4819
+recog_image1/5.jpg       	g                        	0.9793
+recog_image1/6.jpg       	xg                       	0.8277
+recog_image1/7.jpg       	64                       	0.6806
+recog_image1/8.jpg       	xlzz                     	0.4064
+recog_image1/9.jpg       	8sju                     	0.3179
+recog_image1/10.jpg      	egg                      	0.6016
+recog_image1/11.jpg      	7klm                     	0.1653
+recog_image1/12.jpg      	set                      	0.7609
+recog_image1/13.jpg      	englsh                   	0.9082
+recog_image1/14.jpg      	gl                       	0.4768
+recog_image1/15.jpg      	5                        	0.9996
+recog_image1/16.jpg      	543                      	0.0550
+recog_image1/17.jpg      	co                       	0.4266
+recog_image1/18.jpg      	7lgh                     	0.4578
+recog_image1/19.jpg      	high                     	0.2857
+recog_image1/20.jpg      	salmts                   	0.2954
+recog_image1/21.jpg      	ar                       	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	n1ss                     	0.8422
+recog_image2/22.jpg      	n1ss                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	0                        	0.8393
+recog_image1/2.jpg       	6stn                     	0.9749
+recog_image1/3.jpg       	b                        	0.9972
+recog_image1/4.jpg       	y                        	0.4819
+recog_image1/5.jpg       	g                        	0.9793
+recog_image1/6.jpg       	xg                       	0.8277
+recog_image1/7.jpg       	64                       	0.6806
+recog_image1/8.jpg       	xlzz                     	0.4064
+recog_image1/9.jpg       	8sju                     	0.3179
+recog_image1/10.jpg      	egg                      	0.6016
+recog_image1/11.jpg      	7klm                     	0.1653
+recog_image1/12.jpg      	set                      	0.7609
+recog_image1/13.jpg      	englsh                   	0.9082
+recog_image1/14.jpg      	gl                       	0.4768
+recog_image1/15.jpg      	5                        	0.9996
+recog_image1/16.jpg      	543                      	0.0550
+recog_image1/17.jpg      	co                       	0.4266
+recog_image1/18.jpg      	7lgh                     	0.4578
+recog_image1/19.jpg      	high                     	0.2857
+recog_image1/20.jpg      	salmts                   	0.2954
+recog_image1/21.jpg      	ar                       	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	n1ss                     	0.8422
+recog_image2/22.jpg      	n1ss                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	가                        	0.8393
+recog_image1/2.jpg       	사이언스                     	0.9749
+recog_image1/3.jpg       	파                        	0.9972
+recog_image1/4.jpg       	브                        	0.4819
+recog_image1/5.jpg       	식                        	0.9793
+recog_image1/6.jpg       	올식                       	0.8277
+recog_image1/7.jpg       	사마                       	0.6806
+recog_image1/8.jpg       	올리영영                     	0.4064
+recog_image1/9.jpg       	자이엔트                     	0.3179
+recog_image1/10.jpg      	은식식                      	0.6016
+recog_image1/11.jpg      	아제리너                     	0.1653
+recog_image1/12.jpg      	이은언                      	0.7609
+recog_image1/13.jpg      	은스식리이당                   	0.9082
+recog_image1/14.jpg      	식리                       	0.4768
+recog_image1/15.jpg      	바                        	0.9996
+recog_image1/16.jpg      	바마라                      	0.0550
+recog_image1/17.jpg      	하커                       	0.4266
+recog_image1/18.jpg      	아리식당                     	0.4578
+recog_image1/19.jpg      	당탕식당                     	0.2857
+recog_image1/20.jpg      	이오리너언이                   	0.2954
+recog_image1/21.jpg      	오뜨                       	0.9997
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	아비                       	0.7882
+recog_image1/2.jpg       	스                        	0.5327
+recog_image1/3.jpg       	아                        	0.4950
+recog_image1/4.jpg       	라비                       	0.8152
+recog_image1/5.jpg       	다스                       	0.9578
+recog_image1/6.jpg       	커비                       	0.5088
+recog_image1/7.jpg       	라엔                       	0.9392
+recog_image1/8.jpg       	엔트                       	0.8893
+recog_image1/9.jpg       	오언                       	0.6620
+recog_image1/10.jpg      	라리바오                     	0.2295
+recog_image1/11.jpg      	가나                       	1.0000
+recog_image1/12.jpg      	아리리식                     	0.0544
+recog_image1/13.jpg      	올리브영                     	0.1751
+recog_image1/14.jpg      	은식당                      	0.3171
+recog_image1/15.jpg      	아                        	0.9838
+recog_image1/16.jpg      	자                        	0.9602
+recog_image1/17.jpg      	비                        	0.2248
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사가제트                     	0.9999
+recog_image1/2.jpg       	당진                       	0.9999
+recog_image1/3.jpg       	가마                       	0.9999
+recog_image1/4.jpg       	나가                       	1.0000
+recog_image1/5.jpg       	오뜨                       	0.9987
+recog_image1/6.jpg       	아사가                      	0.9999
+recog_image1/7.jpg       	올리브영                     	0.1751
+recog_image1/8.jpg       	아트                       	1.0000
+recog_image1/9.jpg       	하트                       	0.9989
+recog_image1/10.jpg      	아이                       	1.0000
+recog_image1/11.jpg      	하다식당                     	0.9815
+recog_image1/12.jpg      	커피                       	0.9998
+recog_image1/13.jpg      	새마을                      	0.9094
+recog_image1/14.jpg      	식당                       	0.9557
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사가제트                     	0.9999
+recog_image1/2.jpg       	당진                       	0.9999
+recog_image1/3.jpg       	하이마트                     	0.9998
+recog_image1/4.jpg       	식당                       	0.7933
+recog_image1/5.jpg       	아이이                      	0.7108
+recog_image1/6.jpg       	가마                       	0.9999
+recog_image1/7.jpg       	나가                       	1.0000
+recog_image1/8.jpg       	커피나라                     	0.9893
+recog_image1/9.jpg       	오뜨                       	0.9987
+recog_image1/10.jpg      	아사가                      	0.9999
+recog_image1/11.jpg      	새마을식당                    	0.9983
+recog_image1/12.jpg      	올리브영                     	0.1751
+recog_image1/13.jpg      	사바사바                     	0.9497
+recog_image1/14.jpg      	아이스                      	1.0000
+recog_image1/15.jpg      	아트                       	1.0000
+recog_image1/16.jpg      	하트                       	0.9989
+recog_image1/17.jpg      	아이                       	1.0000
+recog_image1/18.jpg      	하다식당                     	0.9815
+recog_image1/19.jpg      	엔제리너스                    	0.9997
+recog_image1/20.jpg      	커피                       	0.9998
+recog_image1/21.jpg      	새마을                      	0.9094
+recog_image1/22.jpg      	식당                       	0.9557
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	가                        	0.8393
+recog_image1/2.jpg       	사이언스                     	0.9749
+recog_image1/3.jpg       	사가제트                     	0.9999
+recog_image1/4.jpg       	당진                       	0.9999
+recog_image1/5.jpg       	하이마트                     	0.9998
+recog_image1/6.jpg       	식당                       	0.7933
+recog_image1/7.jpg       	아이이                      	0.7108
+recog_image1/8.jpg       	가마                       	0.9999
+recog_image1/9.jpg       	나가                       	1.0000
+recog_image1/10.jpg      	커피나라                     	0.9893
+recog_image1/11.jpg      	오뜨                       	0.9987
+recog_image1/12.jpg      	아사가                      	0.9999
+recog_image1/13.jpg      	새마을식당                    	0.9983
+recog_image1/14.jpg      	올리브영                     	0.1751
+recog_image1/15.jpg      	사바사바                     	0.9497
+recog_image1/16.jpg      	아이스                      	1.0000
+recog_image1/17.jpg      	아트                       	1.0000
+recog_image1/18.jpg      	하트                       	0.9989
+recog_image1/19.jpg      	아이                       	1.0000
+recog_image1/20.jpg      	올리영영                     	0.4064
+recog_image1/21.jpg      	하다식당                     	0.9815
+recog_image1/22.jpg      	자이엔트                     	0.3179
+recog_image1/23.jpg      	엔제리너스                    	0.9997
+recog_image1/24.jpg      	은식식                      	0.6016
+recog_image1/25.jpg      	커피                       	0.9998
+recog_image1/26.jpg      	새마을                      	0.9094
+recog_image1/27.jpg      	식당                       	0.9557
+recog_image1/28.jpg      	아제리너                     	0.1653
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	당당당                      	0.9557
+recog_image1/2.jpg       	사이언스                     	0.9749
+recog_image1/3.jpg       	사가제트                     	0.9999
+recog_image1/4.jpg       	마가                       	0.8163
+recog_image1/5.jpg       	라마                       	0.1875
+recog_image1/6.jpg       	하당당                      	0.6508
+recog_image1/7.jpg       	언진                       	0.1782
+recog_image1/8.jpg       	밥은                       	0.6969
+recog_image1/9.jpg       	자바                       	0.5301
+recog_image1/10.jpg      	하마식당                     	0.7724
+recog_image1/11.jpg      	이오                       	0.7880
+recog_image1/12.jpg      	마마                       	0.8760
+recog_image1/13.jpg      	아                        	0.9999
+recog_image1/14.jpg      	다아                       	0.2429
+recog_image1/15.jpg      	하마라                      	0.4054
+recog_image1/16.jpg      	하                        	0.9989
+recog_image1/17.jpg      	아을                       	0.7675
+recog_image1/18.jpg      	당진                       	0.9999
+recog_image1/19.jpg      	하이마트                     	0.9998
+recog_image1/20.jpg      	가마                       	0.9999
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	자이                       	0.9899
+recog_image1/2.jpg       	아새트                      	0.9148
+recog_image1/3.jpg       	마가                       	0.8163
+recog_image1/4.jpg       	라마                       	0.1875
+recog_image1/5.jpg       	하당당                      	0.6508
+recog_image1/6.jpg       	언진                       	0.1782
+recog_image1/7.jpg       	밥은                       	0.6969
+recog_image1/8.jpg       	자바                       	0.5301
+recog_image1/9.jpg       	바나                       	0.9931
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	나가                       	1.0000
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	라라                       	0.9803
+recog_image1/2.jpg       	스당                       	0.8030
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	마다나                      	0.6168
+recog_image1/2.jpg       	아라                       	0.9905
+recog_image1/3.jpg       	가바                       	0.9910
+recog_image1/4.jpg       	바바                       	0.9339
+recog_image1/5.jpg       	커                        	0.7626
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	마가                       	0.8163
+recog_image1/2.jpg       	라마                       	0.1875
+recog_image1/3.jpg       	하당당                      	0.6508
+recog_image1/4.jpg       	언진                       	0.1782
+recog_image1/5.jpg       	밥은                       	0.6969
+recog_image1/6.jpg       	자바                       	0.5301
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	당당당                      	0.7241
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	가식                       	0.5298
+recog_image1/2.jpg       	가게다                      	0.3344
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	언제식                      	0.1369
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	새마을식당                    	0.9983
+recog_image1/20.jpg      	올리브영                     	0.1751
+recog_image1/21.jpg      	사바사바                     	0.9497
+recog_image1/22.jpg      	아이스                      	1.0000
+recog_image1/23.jpg      	아트                       	1.0000
+recog_image1/24.jpg      	하트                       	0.9989
+recog_image1/25.jpg      	아이                       	1.0000
+recog_image1/26.jpg      	하다식당                     	0.9815
+recog_image1/27.jpg      	엔제리너스                    	0.9997
+recog_image1/28.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	아                        	0.5817
+recog_image1/2.jpg       	식당                       	0.1532
+recog_image1/3.jpg       	파은이오                     	0.0241
+recog_image1/4.jpg       	엔제리브                     	0.8755
+recog_image1/5.jpg       	진식                       	0.1130
+recog_image1/6.jpg       	식                        	0.2917
+recog_image1/7.jpg       	가바                       	0.3414
+recog_image1/8.jpg       	아식은                      	0.2648
+recog_image1/9.jpg       	식                        	0.9191
+recog_image1/10.jpg      	비피오하제                    	0.0746
+recog_image1/11.jpg      	비피이탕식당                   	0.0377
+recog_image1/12.jpg      	식라바너                     	0.3885
+recog_image1/13.jpg      	파파너이                     	0.1543
+recog_image1/14.jpg      	라바                       	0.2911
+recog_image1/15.jpg      	나바                       	0.3347
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	오스식리탕스트이                 	0.6977
+recog_image1/2.jpg       	하커을                      	0.8806
+recog_image1/3.jpg       	엔제리너                     	0.7991
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/4.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	엔제리너                     	0.6560
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/4.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	엔                        	0.8602
+recog_image1/2.jpg       	제리너                      	0.4512
+recog_image1/3.jpg       	이하하탕                     	0.1726
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/4.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	하이을                      	0.1835
+recog_image1/2.jpg       	오스식리탕스트                  	0.5651
+recog_image1/3.jpg       	엔제리너스                    	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/4.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/2.jpg       	스나이이                     	0.8422
+recog_image2/3.jpg       	스나이이                     	0.8422
+recog_image2/4.jpg       	스나이이                     	0.8422
+recog_image2/6.jpg       	스나이이                     	0.8422
+recog_image2/7.jpg       	스나이이                     	0.8422
+recog_image2/11.jpg      	스나이이                     	0.8422
+recog_image2/15.jpg      	스나이이                     	0.8422
+recog_image2/16.jpg      	스나이이                     	0.8422
+recog_image2/18.jpg      	스나이이                     	0.8422
+recog_image2/22.jpg      	스나이이                     	0.8422
+recog_image2/23.jpg      	스나이이                     	0.8422
+recog_image2/26.jpg      	스나이이                     	0.8422
+recog_image2/29.jpg      	스나이이                     	0.8422
+recog_image2/32.jpg      	스나이이                     	0.8422
+recog_image2/50.jpg      	스나이이                     	0.8422
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	새마스식당                    	0.3312
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	새마스식당                    	0.6348
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	올리브영                     	0.9969
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	하다식당                     	0.9767
+recog_image2/33.jpg      	오                        	0.8405
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	하다식당                     	0.9815
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/1.jpg       	하이마트                     	0.9892
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/1.jpg       	라라당                      	0.4837
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/1.jpg       	새마올식당                    	0.3916
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/1.jpg       	새마올식당                    	0.3916
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/1.jpg       	하마식당                     	0.9033
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	하마식당                     	0.9033
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image1/1.jpg       	사이언스                     	0.9749
+recog_image1/2.jpg       	사가제트                     	0.9999
+recog_image1/3.jpg       	하마식당                     	0.7724
+recog_image1/4.jpg       	이오                       	0.7880
+recog_image1/5.jpg       	마마                       	0.8760
+recog_image1/6.jpg       	아                        	0.9999
+recog_image1/7.jpg       	다아                       	0.2430
+recog_image1/8.jpg       	하마라                      	0.4054
+recog_image1/9.jpg       	하                        	0.9989
+recog_image1/10.jpg      	아을                       	0.7675
+recog_image1/11.jpg      	당진                       	0.9999
+recog_image1/12.jpg      	하이마트                     	0.9998
+recog_image1/13.jpg      	가마                       	0.9999
+recog_image1/14.jpg      	나가                       	1.0000
+recog_image1/15.jpg      	오뜨                       	0.9987
+recog_image1/16.jpg      	아사가                      	0.9999
+recog_image1/17.jpg      	라라                       	0.9803
+recog_image1/18.jpg      	스당                       	0.8032
+recog_image1/19.jpg      	하이을                      	0.1836
+recog_image1/20.jpg      	오스식리탕스트                  	0.5651
+recog_image1/21.jpg      	엔제리너스                    	0.9995
+recog_image1/22.jpg      	새마을식당                    	0.9983
+recog_image1/23.jpg      	올리브영                     	0.1751
+recog_image1/24.jpg      	사바사바                     	0.9497
+recog_image1/25.jpg      	아이스                      	1.0000
+recog_image1/26.jpg      	아트                       	1.0000
+recog_image1/27.jpg      	하트                       	0.9989
+recog_image1/28.jpg      	아이                       	1.0000
+recog_image1/29.jpg      	하다식당                     	0.9815
+recog_image1/30.jpg      	엔제리너스                    	0.9997
+recog_image1/31.jpg      	커피                       	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+recog_image2/32.jpg      	하마식당                     	0.9033
