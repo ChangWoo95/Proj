@@ -17,5 +17,3 @@
   
 ## 프로젝트
 - 삼성 SDS 딥러닝 기반 간판상호명 인식
-
-## More information of 남북정상회담 Team
